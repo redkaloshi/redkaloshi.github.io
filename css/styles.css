@@ -58,6 +58,9 @@ p,a {
 	font-size:12px;
 	text-align: justify;
 	}
+/* a:visited { */
+/*   color: grey; */
+/* } */
 body {
 	color: #424242;
   	/*min-height: 100%;
@@ -136,18 +139,21 @@ header{
 ***********************************************/
 .content{
 	background-color:white;
-/*    	font-size:16px; */
+   	font-size:16px;
 	padding-top: 10px;
-	}
+}
+
 .ul_editions li{
-	color: maroon;
-	font-weight: none;
-	display: block;
-    list-style: disc;
-    list-style-type: none;
-    text-align:left;
-    padding-left: 80px;
-	}
+  color: maroon;
+  font-weight: none;
+  display: block;
+  list-style: disc;
+  list-style-type: none;
+  text-align:left;
+  padding-left: 80px;
+/*   font-size: 16px; */
+	
+}
 .story{
 	background: #f3f3f3;
 	font-family: 'Open Sans', 'Helvetica', monospace;
