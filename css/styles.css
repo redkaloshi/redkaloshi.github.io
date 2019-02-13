@@ -76,6 +76,7 @@ body {
     text-align: center;
     font: 10px/1.6 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	}
+
 footer {
     position:relative;
 	   clear: both;
@@ -102,22 +103,22 @@ header{
 	position: static;
 	z-index: auto;
 	}
-.page{
-	margin: 0 auto;
+
+.page {
+	margin: auto;
 	width: 210mm;
 	min-height: 230mm;
-	border: 1px solid maroon;
-  background-color:white;
+    background-color:white;
 	text-align: center;		
 	padding: 10px 10px 10px 10px;
 	margin-bottom: 15;	
 
 	margin-top: 10px;
-  margin-bottom: 10px;
+    margin-bottom: 10px;
 	border: 1px dotted #663500;
 	border-radius: 2x;
 	-moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
+    -webkit-border-radius: 2px;
 	}	
 
 /* Navigation menu
