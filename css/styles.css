@@ -58,9 +58,15 @@ p,a {
 	font-size:12px;
 	text-align: justify;
 	}
-/* a:visited { */
-/*   color: grey; */
-/* } */
+a:link {
+  color: maroon;
+}
+a:visited {
+  color: grey;
+}
+a:hover {
+  color: red;
+}
 body {
 	color: #424242;
   	/*min-height: 100%;
