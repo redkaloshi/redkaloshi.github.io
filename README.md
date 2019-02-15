@@ -1,2 +1,2 @@
 # redkaloshi.github.io
-A website
+An HTML/CSS-based website for "Красные Калоши" playful newspaper.
